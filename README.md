@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mira Zilberstein</h1>
-<h3 align="center">BSc Computer Science & Economics student at Tel Aviv University</h3>
+<h3 align="center">BSc Computer Science & Economics graduate from Tel Aviv University</h3>
 <p align="center">With a keen interest in software development, I'm currently enriching my knowledge in machine learning (ML) and natural language processing (NLP), among other areas. I'm always eager to explore new technologies and apply them in innovative ways to solve real-world problems.</p>
 <p align="center"> 
 
